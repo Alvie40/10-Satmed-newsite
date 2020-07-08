@@ -1,7 +1,7 @@
 # 10-Satmed-newsite
 Satmed.com.br new site revamp
 
--->
+
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
@@ -18,10 +18,10 @@ Satmed.com.br new site revamp
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">YOUR_TITLE</h3>
+  <h3 align="center">Satmed</h3>
 
   <p align="center">
-    SATMED's new websute
+    SATMED's new website
     <br />
     <a href="https://github.com/alvie40/10-Satmed-newsite"><strong>Explore the docs »</strong></a>
     <br />
